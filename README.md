@@ -14,6 +14,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 N/A
 
+
 ## Usage
 
 The project contains segmented notes fro all topics covered in prework, HTML, CSS, JavaScript, and Git. Using DevTools console, JavaScript can be seen in action. The JavaScript will list all the topics in the project and choose a single topic at a time to be studied. 
